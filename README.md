@@ -11,11 +11,11 @@ A A simple image recognition project using InceptionV3 to classify flower specie
 - Strong performance: ~89% overall accuracy; excellent recall for daisy (~95%) and dandelion (~93%); decent but lower recall for tulip (~81%), rose and sunflower.
 
 
-<img width="235" height="115" alt="Performance" src="https://github.com/user-attachments/assets/28bb7851-3e81-499e-84d6-f020b06feee5" />
 <img width="691" height="416" alt="per_class_acc" src="https://github.com/user-attachments/assets/af250e21-a5f8-49e7-821d-4ddcc9bc1592" />
-<img width="380" height="93" alt="params" src="https://github.com/user-attachments/assets/bfda118c-4332-4188-be16-fecab677f5b0" />
+
 <img width="581" height="560" alt="confusion_mat" src="https://github.com/user-attachments/assets/1d0e5657-1f1b-48ed-a731-8e6c704d9db1" />
-<img width="709" height="391" alt="Acc_Loss" src="https://github.com/user-attachments/assets/0e173cd7-5a53-495e-acb2-387a4b597389" />
+
+<img width="235" height="115" alt="Performance" src="https://github.com/user-attachments/assets/28bb7851-3e81-499e-84d6-f020b06feee5" />
 
 Deployable with Streamlit for an interactive demo:
 
