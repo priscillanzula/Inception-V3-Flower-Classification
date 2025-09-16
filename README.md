@@ -15,7 +15,8 @@ A A simple image recognition project using InceptionV3 to classify flower specie
 
 <img width="581" height="560" alt="confusion_mat" src="https://github.com/user-attachments/assets/1d0e5657-1f1b-48ed-a731-8e6c704d9db1" />
 
-<img width="235" height="115" alt="Performance" src="https://github.com/user-attachments/assets/28bb7851-3e81-499e-84d6-f020b06feee5" />
+<img width="235" height="115" alt="Performance" src="https://github.com/user-attachments/assets/8f38bf78-9088-4050-910e-23ccbf70e93b" />
+
 
 Deployable with Streamlit for an interactive demo:
 
